@@ -1,5 +1,16 @@
 # CodAlpha--Frontend-Developement-Task-2
 # Advanced Calculator
+Name:Vallepi.Tejaswi
+
+Company:CodAlpha
+
+ID:CA/DFI/134962
+
+Duration:10th june 2026 to 10th july 2026
+
+Domain:Fronted-Developement
+
+
 
 ## Overview
 
@@ -106,3 +117,6 @@ Through this project, I learned:
 ## Conclusion
 
 The Advanced Calculator is a responsive and interactive web application that demonstrates essential front-end development skills. It combines modern UI design, keyboard support, arithmetic operations, and error handling to provide an efficient and user-friendly calculation experience.
+
+## Output:
+https://github.com/user-attachments/assets/b9a2ce17-7fd8-4cd2-af7d-cc4e90d6c17c
